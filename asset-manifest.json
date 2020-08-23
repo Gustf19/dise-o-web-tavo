@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dise-o-web-tavo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/dise-o-web-tavo/static/js/main.36c23b00.chunk.js",
-    "main.js.map": "/dise-o-web-tavo/static/js/main.36c23b00.chunk.js.map",
-    "runtime-main.js": "/dise-o-web-tavo/static/js/runtime-main.f478f3b4.js",
-    "runtime-main.js.map": "/dise-o-web-tavo/static/js/runtime-main.f478f3b4.js.map",
-    "static/js/2.2ebf5461.chunk.js": "/dise-o-web-tavo/static/js/2.2ebf5461.chunk.js",
-    "static/js/2.2ebf5461.chunk.js.map": "/dise-o-web-tavo/static/js/2.2ebf5461.chunk.js.map",
-    "index.html": "/dise-o-web-tavo/index.html",
-    "precache-manifest.128d16472596ce2514d18a6a136e75e8.js": "/dise-o-web-tavo/precache-manifest.128d16472596ce2514d18a6a136e75e8.js",
-    "service-worker.js": "/dise-o-web-tavo/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/dise-o-web-tavo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2ebf5461.chunk.js.LICENSE.txt": "/dise-o-web-tavo/static/js/2.2ebf5461.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/dise-o-web-tavo/static/media/logo.5d5d9eef.svg"
+    "main.css": "/otro/static/css/main.5f361e03.chunk.css",
+    "main.js": "/otro/static/js/main.9b2c3dee.chunk.js",
+    "main.js.map": "/otro/static/js/main.9b2c3dee.chunk.js.map",
+    "runtime-main.js": "/otro/static/js/runtime-main.b2cd75b4.js",
+    "runtime-main.js.map": "/otro/static/js/runtime-main.b2cd75b4.js.map",
+    "static/js/2.2ebf5461.chunk.js": "/otro/static/js/2.2ebf5461.chunk.js",
+    "static/js/2.2ebf5461.chunk.js.map": "/otro/static/js/2.2ebf5461.chunk.js.map",
+    "index.html": "/otro/index.html",
+    "precache-manifest.ad0cccaa242e9a22436bd83d77d94467.js": "/otro/precache-manifest.ad0cccaa242e9a22436bd83d77d94467.js",
+    "service-worker.js": "/otro/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/otro/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2ebf5461.chunk.js.LICENSE.txt": "/otro/static/js/2.2ebf5461.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/otro/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f478f3b4.js",
+    "static/js/runtime-main.b2cd75b4.js",
     "static/js/2.2ebf5461.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.36c23b00.chunk.js"
+    "static/js/main.9b2c3dee.chunk.js"
   ]
 }
